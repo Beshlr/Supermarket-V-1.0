@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Adham\\Supermarket-V-1.0\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|c:\\adham\\supermarket-v-1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Anas Qadora\\Supermarket-V-1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|c:\\users\\anas qadora\\supermarket-v-1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> d3b3919 (تحديثات جديدة على المشروع)
       "RelativeMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,10 +27,17 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Adham\\Supermarket-V-1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Adham\\Supermarket-V-1.0\\Form1.cs [Design]*",
               "RelativeToolTip": "Form1.cs [Design]*",
+=======
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Supermarket-V-1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Supermarket-V-1.0\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+>>>>>>> d3b3919 (تحديثات جديدة على المشروع)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:17:03.53Z",
               "EditorCaption": " [Design]"
