@@ -1,4 +1,4 @@
-#Supermarket Management System
+# Supermarket Management System
 Overview
 The Supermarket Management System is a C# application built using .NET Framework/.NET Core and Windows Forms to facilitate the management of a supermarket, including inventory tracking, sales processing, and user authentication.
 
@@ -23,7 +23,8 @@ Open the project in Visual Studio.
 Restore NuGet packages if required.
 Set up the SQL Server database and update the connection string in app.config.
 Run the application.
-Future Enhancements
+
+## Future Enhancements
 Implement barcode scanning.
 Add online ordering module.
 Enhance reporting and analytics.
