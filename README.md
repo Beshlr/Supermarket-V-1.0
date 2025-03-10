@@ -17,7 +17,7 @@ Database: SQL Server
 Architecture: Layered Architecture (Data Access Layer, Business Logic Layer, UI Layer)
 
 Setup Instructions
-Clone the repository:
+### Clone the repository:
 git clone https://github.com/Beshlr/Supermarket-V-1.0.git
 Open the project in Visual Studio.
 Restore NuGet packages if required.
