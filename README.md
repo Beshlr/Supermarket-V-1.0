@@ -23,3 +23,13 @@ Open the project in Visual Studio.
 Restore NuGet packages if required.
 Set up the SQL Server database and update the connection string in app.config.
 Run the application.
+Future Enhancements
+Implement barcode scanning.
+Add online ordering module.
+Enhance reporting and analytics.
+
+Contributors
+Hassan Beshir
+Adhm alkhateeb
+Anas hussam
+Mohamed Wael
