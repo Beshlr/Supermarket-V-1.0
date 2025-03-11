@@ -1,9 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyProjects\\C#\\SharpCodersProject\\SuperMarket\\Supermarket\\",
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Adham\\Supermarket-V-1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|d:\\myprojects\\c#\\sharpcodersproject\\supermarket\\supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|c:\\adham\\supermarket-v-1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Anas Qadora\\Supermarket-V-1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|c:\\users\\anas qadora\\supermarket-v-1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> d3b3919 (تحديثات جديدة على المشروع)
       "RelativeMoniker": "D:0:0:{3AB44BAA-B7C3-4252-A3E5-BE783D212578}|Supermarket.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,24 +21,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\MyProjects\\C#\\SharpCodersProject\\SuperMarket\\Supermarket\\Form1.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Adham\\Supermarket-V-1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\MyProjects\\C#\\SharpCodersProject\\SuperMarket\\Supermarket\\Form1.cs [Design]",
+              "ToolTip": "C:\\Adham\\Supermarket-V-1.0\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+=======
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Supermarket-V-1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Supermarket-V-1.0\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
+>>>>>>> d3b3919 (تحديثات جديدة على المشروع)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:17:03.53Z",
               "EditorCaption": " [Design]"
