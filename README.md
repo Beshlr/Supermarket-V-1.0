@@ -29,8 +29,8 @@ Implement barcode scanning.
 Add online ordering module.
 Enhance reporting and analytics.
 
-Contributors
-Hassan Beshir
-Adhm alkhateeb
-Anas hussam
+## Contributors
+Hassan Beshir,
+Adhm alkhateeb,
+Anas hussam,
 Mohamed Wael
