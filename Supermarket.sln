@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket.csproj", "{3AB44BAA-B7C3-4252-A3E5-BE783D212578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsDateAccessLayer", "..\clsDateAccessLayer\clsDateAccessLayer.csproj", "{1C0E9F94-C9B1-4976-84EB-7059FF64D9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsBussinessLayer", "..\clsBussinessLayer\clsBussinessLayer.csproj", "{37952C51-D0AE-4D01-BE78-9FF4A2FAC563}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{3AB44BAA-B7C3-4252-A3E5-BE783D212578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AB44BAA-B7C3-4252-A3E5-BE783D212578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AB44BAA-B7C3-4252-A3E5-BE783D212578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0E9F94-C9B1-4976-84EB-7059FF64D9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E9F94-C9B1-4976-84EB-7059FF64D9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E9F94-C9B1-4976-84EB-7059FF64D9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E9F94-C9B1-4976-84EB-7059FF64D9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37952C51-D0AE-4D01-BE78-9FF4A2FAC563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37952C51-D0AE-4D01-BE78-9FF4A2FAC563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37952C51-D0AE-4D01-BE78-9FF4A2FAC563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37952C51-D0AE-4D01-BE78-9FF4A2FAC563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98276A0A-9C86-4CA0-A02F-A108294D833E}
 	EndGlobalSection
 EndGlobal
